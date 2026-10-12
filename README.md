@@ -69,8 +69,8 @@ diagrams/                     PlantUML sources for the diagrams
 ## Provenance
 
 This revision supersedes *Proposal for Federation Tier with AQL* (openEHR Federation
-Working Group, 2025-08-20). What changed, and why, is catalogued in
-[Changes from the 2025-08-20 proposal](modules/ROOT/pages/changes-from-2025-08-20.adoc).
+Working Group, 2025-08-20). The history of the revision is in this repository's git
+log and release tags.
 
 ## Contributing
 
