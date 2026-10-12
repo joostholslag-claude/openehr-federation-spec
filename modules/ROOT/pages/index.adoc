@@ -8,7 +8,7 @@
 [NOTE]
 .Editorial note
 ====
-This is a working draft circulated for comment. A companion note, xref:changes-from-2025-08-20.adoc[Changes from the 2025-08-20 proposal], records what changed since then. This document stands on its own as a specification and does not otherwise narrate that history.
+This specification was approved by the openEHR Specifications Editorial Committee (SEC) at its meeting of 2026-10-12 and is published as release 1.0.0. Comments remain welcome and are taken up in a later release.
 ====
 
 == Referenced documents
