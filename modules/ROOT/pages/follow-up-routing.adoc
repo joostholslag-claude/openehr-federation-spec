@@ -81,7 +81,7 @@ Because `ehr_id` values are node-local, nothing in openEHR prevents two CDRs fro
 
 === 12.5.3 Prevention belongs to membership
 
-Rules for joining a federation, which prevent these collisions in the first place, are drafted in xref:membership.adoc#identifier-conditions[§12b.2].
+Rules for joining a federation, which prevent these collisions in the first place, are set out in xref:membership.adoc#identifier-conditions[§12b.2].
 
 [#definition-routing]
 == 12.6 Definitions, templates and stored queries

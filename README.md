@@ -1,4 +1,4 @@
-# Proposal for Federation Tier with AQL
+# Federation Tier with AQL
 
 A specification for a **Federation Tier** in openEHR querying: it lets a client run an
 AQL query across **multiple distributed CDRs** as though they were a single repository.
@@ -68,9 +68,9 @@ diagrams/                     PlantUML sources for the diagrams
 
 ## Provenance
 
-This revision supersedes *Proposal for Federation Tier with AQL* (openEHR Federation
-Working Group, 2025-08-20). The history of the revision is in this repository's git
-log and release tags.
+This specification supersedes *Proposal for Federation Tier with AQL* (openEHR Federation
+Working Group, 2025-08-20). Its release history is in this repository's git log and
+release tags.
 
 ## Contributing
 

@@ -1,7 +1,7 @@
 {
   "name": "federation-aql-spec",
   "version": "1.0.0",
-  "description": "Proposal for Federation Tier with AQL - Antora documentation component",
+  "description": "Federation Tier with AQL - Antora documentation component",
   "private": true,
   "scripts": {
     "build": "antora --fetch antora-playbook.yml"
